@@ -1,0 +1,16 @@
+{
+  "name": "a-walleh-auction",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A Walleh Auction: real-time multiplayer IPL Mega Auction (React + Tailwind + Firebase)",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.4.0",
+    "tailwindcss": "^4.0.0"
+  }
+}
